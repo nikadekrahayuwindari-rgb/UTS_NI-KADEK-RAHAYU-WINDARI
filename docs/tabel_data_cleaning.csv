@@ -1,0 +1,6 @@
+Tahap Pembersihan,Jumlah,Keterangan
+Baris pada berkas asli (Provinsi NTB),480,Berkas mentah di data/raw/ tetap utuh tanpa modifikasi
+Setelah penyaringan 5 kabupaten/kota Pulau Lombok,240,240 baris wilayah Pulau Sumbawa dikeluarkan
+Baris duplikat persis dibuang,0,Blok baris berulang dari sumber dibersihkan
+Baris data bersih siap gabung,240,Digunakan sebagai tabel acuan utama (kiri)
+Nilai kosong pada data bersih,0,Diperiksa di seluruh kolom

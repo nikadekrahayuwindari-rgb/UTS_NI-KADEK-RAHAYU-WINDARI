@@ -1,0 +1,10 @@
+{
+  "berkas_raw": "uts_dam_2501010176/data/raw/wikipedia_west_lombok_regency.html",
+  "situs_sumber": "https://en.wikipedia.org/wiki/West_Lombok_Regency",
+  "waktu_scraping": "2026-11-26T13:15:55.369386+00:00",
+  "user_agent": "INSTIKI-BIFP243-UTS/1.0 (2501010176@instiki.ac.id)",
+  "status_http": 200,
+  "jumlah_record": 10,
+  "robots_txt_mengizinkan": true,
+  "lisensi_konten": "CC BY-SA 4.0 (Wikipedia)"
+}

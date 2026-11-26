@@ -1,0 +1,19 @@
+{
+  "dibuat": "2026-11-26T13:15:55",
+  "sumber_digabung": [
+    "csv",
+    "api",
+    "scraping"
+  ],
+  "kunci_merge": [
+    "kunci_wilayah",
+    "tahun_kunci"
+  ],
+  "validate": "many_to_one",
+  "jumlah_baris": 240,
+  "jumlah_kolom": 19,
+  "baris_duplikat": 0,
+  "baris_tanpa_cuaca": 0,
+  "berkas_hasil": "uts_dam_2501010176/data/processed/hasil_gabungan_akhir.csv",
+  "md5_hasil": "08ef7087a3a5a7373bac8e3b1b4181c3"
+}

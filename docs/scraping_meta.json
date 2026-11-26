@@ -1,0 +1,12 @@
+{
+  "berkas_raw": "uts_dam_2501010176/data/raw/wikipedia_districts_ntb.html",
+  "situs_sumber": "https://id.wikipedia.org/wiki/Daftar_kecamatan_dan_kelurahan_di_Nusa_Tenggara_Barat",
+  "waktu_scraping": "2026-11-26T13:15:53.608503+00:00",
+  "user_agent": "INSTIKI-BIFP243-UTS/1.0 (2501010176@instiki.ac.id)",
+  "status_http": 200,
+  "jumlah_record_ntb": 117,
+  "jumlah_record_lombok": 54,
+  "robots_txt_mengizinkan": true,
+  "lisensi_konten": "CC BY-SA 4.0 (Wikipedia)",
+  "diambil_oleh": "Ni Kadek Rahayu Windari / 2501010176"
+}

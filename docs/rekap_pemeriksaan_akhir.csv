@@ -1,0 +1,12 @@
+No,Persyaratan UTS,Status,Bukti
+1,"Dataset unduhan asli, minimal 100 baris",LOLOS,480 baris
+2,"API: tabel hasil minimal 30 baris, timeout, retry, status code",LOLOS,5480 baris
+3,robots.txt diperiksa dan bernilai True sebelum scraping,LOLOS,can_fetch = True
+4,Scraping halaman statis dengan BeautifulSoup menjadi tabel,LOLOS,117 baris NTB; Lombok Barat: 10 baris
+5,"Merge minimal 2 sumber, validate, 0 duplikat, kunci bermakna",LOLOS,"Sumber: ['csv', 'api', 'scraping']; kunci: ['kunci_wilayah', 'tahun_kunci']; 240 baris"
+6,Data Ethics Checklist 9 butir lengkap dengan bukti,LOLOS,"9 butir; status: {'Ya': 8, 'NA': 1}"
+7,"Provenance (URL, tanggal akses, lisensi, MD5) tiap sumber",LOLOS,10 berkas mentah tercatat
+8,Data mentah di data/raw tidak diubah (disimpan sebagai bytes),LOLOS,Respons disimpan utuh lewat write_bytes
+9,"Grafik minimal 4 dengan judul, sumbu, satuan, keterangan",LOLOS,6 grafik di docs/charts/
+10,"User-Agent berisi email kampus sendiri, timeout, dan jeda",LOLOS,INSTIKI-BIFP243-UTS/1.0 (2501010176@instiki.ac.id) | timeout 30s | jeda 1.5s
+11,Satu notebook .ipynb dengan semua sel sudah dijalankan dan disimpan,LOLOS,"Seluruh sel utama (Setup, Soal 1-5, Visualisasi, Provenance) telah dieksekusi di sesi ini. Jalankan sel README & ZIP di bawah, tekan Ctrl+S, lalu Download .ipynb."
